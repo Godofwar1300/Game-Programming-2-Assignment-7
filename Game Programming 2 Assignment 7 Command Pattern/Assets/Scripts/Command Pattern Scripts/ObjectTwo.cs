@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+* (Christopher Green)
+* (ObjectTwo.cs)
+* (Assignment 7)
+* (This script is attatched to the other type of object that uses Commands)
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

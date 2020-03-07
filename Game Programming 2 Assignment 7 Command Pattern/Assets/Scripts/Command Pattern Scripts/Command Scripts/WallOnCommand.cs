@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+* (Christopher Green)
+* (WallOnCommand.cs)
+* (Assignment 7)
+* (This is a command script that handles turning on the appropriate object)
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

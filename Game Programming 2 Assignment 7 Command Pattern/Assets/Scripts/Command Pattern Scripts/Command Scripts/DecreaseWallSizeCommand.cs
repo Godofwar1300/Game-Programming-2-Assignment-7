@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+* (Christopher Green)
+* (DecreaseWallSizeCommand.cs)
+* (Assignment 7)
+* (This is a command script that handles lowering the size of the appropriate object)
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

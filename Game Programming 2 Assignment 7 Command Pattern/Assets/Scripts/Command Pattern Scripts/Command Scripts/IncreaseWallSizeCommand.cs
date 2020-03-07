@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+* (Christopher Green)
+* (IncreaseWallSizeCommand.cs)
+* (Assignment 7)
+* (This is a command script that handles increasing the size of the appropriate object)
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

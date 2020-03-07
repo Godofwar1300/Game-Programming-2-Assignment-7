@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/*
+* (Christopher Green)
+* (Wall.cs)
+* (Assignment 7)
+* (This script is attatched to the wall type of object that uses Commands)
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
